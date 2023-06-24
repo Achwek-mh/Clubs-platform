@@ -19,26 +19,26 @@
 
 <!-- Upgrade to Premium version of Template -->
 <h2>Landing page</h2>
-    <img src="/home/achwak/Downloads/Clubs-platform/assets/1.png" alt="Xtreme Template  Bootstrap" >
+    <img src="assets/1.png" alt="Xtreme Template  Bootstrap" >
     </br>
     
 <h2>Pre-selectionned members list</h2>
-    <img src="/home/achwak/Downloads/Clubs-platform/assets/2.png" alt="Xtreme Template  Bootstrap" >
+    <img src="assets/2.png" alt="Xtreme Template  Bootstrap" >
         </br>
 
 <h2>Admin space</h2>
-    <img src="/home/achwak/Downloads/Clubs-platform/assets/3.png" alt="Xtreme Template  Bootstrap" >
+    <img src="assets/3.png" alt="Xtreme Template  Bootstrap" >
         </br>
 
 <h2>User profile</h2>
-    <img src="/home/achwak/Downloads/Clubs-platform/assets/4.png" alt="Xtreme Template  Bootstrap" >
+    <img src="assets/4.png" alt="Xtreme Template  Bootstrap" >
         </br>
 
 <h2>Contact</h2>
-    <img src="/home/achwak/Downloads/Clubs-platform/assets/5.png" alt="Xtreme Template  Bootstrap" >
+    <img src="assets/5.png" alt="Xtreme Template  Bootstrap" >
         </br>
 
-  <img src="/home/achwak/Downloads/Clubs-platform/assets/6.png" alt="Xtreme Template  Bootstrap" >
+  <img src="assets/6.png" alt="Xtreme Template  Bootstrap" >
         </br>
 
     
